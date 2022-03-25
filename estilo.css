@@ -50,7 +50,7 @@ p{
 .banner{
     height: 500px;
     background-color: red;
-    background-image: url("bg-jelly-fish-para-home.png");
+    background-image: url("img/bg-jelly-fish-para-home.png");
     background-size: cover;
 }
 .banner .card {
