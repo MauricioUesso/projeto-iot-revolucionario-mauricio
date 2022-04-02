@@ -88,3 +88,17 @@ input{
 .banner .card{
     color: #e75459;
 }
+
+.btn2 {
+    font-family: monospace;
+    margin-top: 10px;
+    border: 0;
+    font-weight: 600;
+    background-color: #e75459;
+    color: white;
+    font-size: 10px;
+    border-radius: 4px;
+    padding: 10px 15px;
+
+
+}
